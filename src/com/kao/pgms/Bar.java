@@ -8,4 +8,7 @@ public class Bar {
 	public void doSomething() {
 		System.out.println("Bar");
 	}
+	public void doSomethingElse() {
+		
+	}
 }
