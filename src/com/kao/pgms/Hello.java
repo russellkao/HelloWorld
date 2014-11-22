@@ -7,6 +7,8 @@ public class Hello {
 		printFoo();
 		Bar bar = new Bar();
 		bar.doSomething();
+		Foo foo = new Foo();
+		foo.doIt();
 	}
 	private static void printFoo() {
 		System.out.println("Foo");
