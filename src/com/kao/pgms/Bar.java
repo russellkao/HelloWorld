@@ -9,6 +9,6 @@ public class Bar {
 		System.out.println("Bar");
 	}
 	public void doSomethingElse() {
-		
+		System.out.println("Something else");		
 	}
 }
