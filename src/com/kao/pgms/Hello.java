@@ -11,6 +11,7 @@ public class Hello {
 		Foo foo = new Foo();
 		foo.doIt();
 		System.out.println("Russell here");
+		System.out.println("Ralph here");
 	}
 	private static void printReally() {
 		System.out.println("Really!");
