@@ -7,6 +7,7 @@ public class Hello {
 		printReally();
 		Bar bar = new Bar();
 		bar.doSomething();
+		bar.doSomethingElse();
 		Foo foo = new Foo();
 		foo.doIt();
 	}
